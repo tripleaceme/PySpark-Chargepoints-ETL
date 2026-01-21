@@ -1,2 +1,2 @@
-Python=3.12
-PySpark=3.5.5
+Python==3.12
+PySpark==3.5.5
